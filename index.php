@@ -22,7 +22,7 @@
 
     <link rel="shortcut icon" href="images/favicon.png">
 
-    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smar$
     <!--
     <link rel="canonical" href="http://www.example.com/">
     -->
@@ -100,39 +100,39 @@
           <ul class="mdl-menu mdl-js-menu mdl-js-ripple-effect mdl-menu--bottom-right" for="hdrbtn">
           </ul>
         </div>
-      </header>
+</header>
         <div class="demo-drawer mdl-layout__drawer mdl-color--grey-200 mdl-color-text--black">
         <header class="demo-drawer-header">
 
-        <a href="http://www.accuweather.com/en/us/westfield-ma/01085/weather-forecast/370_pc" class="aw-widget-legal">
+<a href="http://www.accuweather.com/en/us/westfield-ma/01085/weather-forecast/333577" class="aw-widget-legal">
 <!--
-By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at http://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at http://www.accuweather.com/en/privacy.
+By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at http://www.accuweather.com$
 -->
-</a><div id="awcc1457530762415" class="aw-widget-current"  data-locationkey="" data-unit="f" data-language="en-us" data-useip="true" data-uid="awcc1457530762415"></div><script type="text/javascript" src="http://oap.accuweather.com/launch.js"></script>
-
+</a><div id="awcc1465863550259" class="aw-widget-current"  data-locationkey="333577" data-unit="f" data-language="en-us" data-useip="false" data-uid="awcc$
 
         </header>
         <nav class="demo-navigation mdl-navigation mdl-color--grey-100">
-          <a class="mdl-navigation__link" href="https://96.95.184.163:4444" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">settings</i>SophosXG</a>
-          <a class="mdl-navigation__link" href="https://96.95.184.162:4444" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">settings</i>Sophos UTM</a>
-          <a class="mdl-navigation__link" href="http://96.95.184.162:8095" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">storage</i>PRTG</a>
-          <a class="mdl-navigation__link" href="http://amp.taintcorp.com" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">storage</i>AMP</a>
-          <a class="mdl-navigation__link" href="https://96.95.184.162:8443/login" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">storage</i>UniFi</a>
-          <a class="mdl-navigation__link" href="http://96.95.184.165:8090/owncloud" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">visibility</i>Owncloud</a>
-          <a class="mdl-navigation__link" href="https://remote.utorrent.com/" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">swap_vertical_circle</i>uTorrent</a>
-          <a class="mdl-navigation__link" href="https://app.plex.tv/web/app" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">play_circle_filled</i>Plex</a>
-          <a class="mdl-navigation__link" href="http://96.95.184.162:8181" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">play_circle_filled</i>PlexPy</a>
-          <a class="mdl-navigation__link" href="http://96.95.184.163:3000" target="_blank"><i class="mdl-color-text--black material-icons" role="presentation">play_circle_filled</i>PlexRequest</a>
-          <div class="mdl-layout-spacer"></div>
+          <a class="mdl-navigation__link" href="https://96.95.184.163:4444" target="_blank"><i class="mdl-color-text--black material-icons" role="presenta$
+          <a class="mdl-navigation__link" href="https://96.95.184.162:4444" target="_blank"><i class="mdl-color-text--black material-icons" role="presenta$
+          <a class="mdl-navigation__link" href="http://96.95.184.162:8080/guacamole/#/" target="_blank"><i class="mdl-color-text--black material-icons" ro$
+          <a class="mdl-navigation__link" href="http://172.126.146.63:8089/public/mapshow.htm?id=2257&mapid=538131E1-1517-4791-9174-3D9A8730424A" target="$
+          <a class="mdl-navigation__link" href="https://96.95.184.162:8443/login" target="_blank"><i class="mdl-color-text--black material-icons" role="pr$
+          <a class="mdl-navigation__link" href="http://96.95.184.165:8090/owncloud" target="_blank"><i class="mdl-color-text--black material-icons" role="$
+          <a class="mdl-navigation__link" href="http://96.95.184.161:8080/" target="_blank"><i class="mdl-color-text--black material-icons" role="presenta$
+          <a class="mdl-navigation__link" href="http://96.95.184.161:8989" target="_blank"><i class="mdl-color-text--black material-icons" role="presentat$
+          <a class="mdl-navigation__link" href="https://app.plex.tv/web/app" target="_blank"><i class="mdl-color-text--black material-icons" role="present$
+          <a class="mdl-navigation__link" href="http://172.126.146.63:8182" target="_blank"><i class="mdl-color-text--black material-icons" role="presenta$
+          <a class="mdl-navigation__link" href="http://arkservers.net/server/172.126.146.63:27015" target="_blank"><i class="mdl-color-text--black materia$
+         <div class="mdl-layout-spacer"></div>
           </nav>
 
-      </div>
+</div>
       <main class="mdl-layout__content mdl-color--grey-100">
         <div class="demo-cards mdl-shadow--8dp mdl-color--white mdl-card--expand">
             <div class="demo-separator mdl-cell--1-col"></div>
             <center class="pattern">
              <iframe width=1920 height=840 frameborder="1"
-   src="http://96.95.184.162:8095/public/mapshow.htm?id=3361&mapid=C938ED12-1735-4497-99FD-8ECBEFCF1D2C">
+   src="http://96.95.184.162:8095/public/mapshow.htm?id=2561&mapid=D16529C5-E76D-4BED-AB85-B5D2AFF43642">
    </iframe>
             <div class="demo-separator mdl-cell--1-col"></div>
           </div>
@@ -142,8 +142,7 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
         </div>
       </main>
     </div>
-     <a href="http://96.95.184.162:8087" target="_blank" id="view-source" class="mdl-button--fab mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-color-text--white"><i class="material-icons">add</i></a>
+     <a href="http://96.95.184.162:8087" target="_blank" id="view-source" class="mdl-button--fab mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl$
     <script src="https://code.getmdl.io/1.1.1/material.min.js"></script>
   </body>
 </html>
-                                                                                                                            164,1         Bot
